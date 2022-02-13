@@ -1,2 +1,1 @@
-# Student
-Starting with Github
+This is a tutorial for beginners
